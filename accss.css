@@ -1,0 +1,24 @@
+body{
+    margin: 0px;
+    background-color: rgb(248, 203, 68);
+}
+#cert{
+    margin-left: 390px;
+    margin-top: 50px;
+    background-color: black;
+    height: 450px;
+    width: 50%;
+}
+
+#cert h1{
+    color: white;
+    margin-top: 10px;
+    
+}
+a{
+    text-decoration: none;
+}
+
+#cert:hover{
+    box-shadow: 0 40px 80px 0 rgba(0, 0, 0, 0.2), 0 60px 200px 0 rgba(0, 0, 0, 0.19);
+}
